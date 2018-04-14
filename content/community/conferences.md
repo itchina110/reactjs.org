@@ -55,7 +55,11 @@ July 11-13 in Portland, Oregon USA
 ### React Rally
 August 16-17 in Salt Lake City, Utah USA
 
-[Website](http://www.reactrally.com) - [Twitter](https://twitter.com/reactrally)
+### React Dev Conf China
+August 18 in Guangzhou,China
+
+
+[Website](http://react.w3ctech.com)
 
 ### #byteconf\_react\_2018
 August 30-31 streamed online, via Twitch
